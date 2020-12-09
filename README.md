@@ -41,7 +41,7 @@ UPDATE LINK 👇
 | 30  | [Auto Text Effect](https://github.com/bradtraversy/50projects50days/tree/master/auto-text-effect)                           | [Live Demo](https://50projects50days.com/projects/auto-text-effect/)              |
 | 31  | [Password Generator](https://github.com/bradtraversy/50projects50days/tree/master/password-generator)                       | [Live Demo](https://50projects50days.com/projects/password-generator/)            |
 | 32  | [Good Cheap Fast](https://github.com/bradtraversy/50projects50days/tree/master/good-cheap-fast)                             | [Live Demo](https://50projects50days.com/projects/good-cheap-fast/)               |
-| 33  | [Notes App](https://github.com/bradtraversy/50projects50days/tree/master/notes-app)                                         | [Live Demo](https://50projects50days.com/projects/notes-app/)                     |
+| 33  | [Notes App](https://github.com/bradtraversy/50projects50days/tree/master/notes-app)                                         | [Live Demo](https://50projects50days.com/projects/notes-app/)                      |
 | 34  | [Animated Countdown](https://github.com/bradtraversy/50projects50days/tree/master/animated-countdown)                       | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
 | 35  | [Image Carousel](https://github.com/bradtraversy/50projects50days/tree/master/image-carousel)                               | [Live Demo](https://50projects50days.com/projects/image-carousel/)                |
 | 36  | [Hoverboard](https://github.com/bradtraversy/50projects50days/tree/master/hoverboard)                                       | [Live Demo](https://50projects50days.com/projects/hoverboard/)                    |
